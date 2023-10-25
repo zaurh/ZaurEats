@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ZaurEats</string>
+
+    <string name="monday">Bazar ertəsi</string>
+    <string name="tuesday">Çərşənbə axşamı</string>
+    <string name="wednesday">Çərşənbə</string>
+    <string name="thursday">Cümə axşamı</string>
+    <string name="friday">Cümə</string>
+    <string name="saturday">Şənbə</string>
+    <string name="sunday">Bazar</string>
+
+
+</resources>

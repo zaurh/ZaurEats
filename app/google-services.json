@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "262717944844",
+    "project_id": "zaureats",
+    "storage_bucket": "zaureats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262717944844:android:97e12084a91a1a58112a29",
+        "android_client_info": {
+          "package_name": "com.example.zaureats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIl9U5D0lJDnDk0DJW5GYGHr_HJmWnJJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262717944844:android:31fd482bda1488d2112a29",
+        "android_client_info": {
+          "package_name": "com.example.zaureatsadminpanel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIl9U5D0lJDnDk0DJW5GYGHr_HJmWnJJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
