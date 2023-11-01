@@ -13,16 +13,22 @@ I've used three Firebase features : Auth (for authentication users), Firestore (
 # This app contains: 
 
 
+Kotlin
+
+Jetpack compose
+
 MVVM
 
-Firebase Auth
+Firebase Auth (for authentication users)
 
-Firebase Firestore
+Firebase Firestore (for storing user and retrieve them)
 
-Firebase Storage
+Firebase Storage (for uploading images)
 
-Coil
+Coil (for loading images asynchronous)
 
-Navigation
+Navigation (for navigating between composables)
 
-Dagger Hilt
+Dagger Hilt (for dependency injection)
+
+And some 3rd party libraries.
