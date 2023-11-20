@@ -37,6 +37,7 @@ And some 3rd party libraries.
 
 
 ## License
+```javascript
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
