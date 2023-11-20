@@ -27,6 +27,14 @@ Firebase Storage (for uploading images)
 
 Coil (for loading images asynchronous)
 
+Navigation (for navigating between composables)
+
+Dagger Hilt (for dependency injection)
+
+And some 3rd party libraries.
+
+
+
 # LICENSE
 
 Copyright 2023 Zaur Hasanov https://zaurh.com
@@ -42,9 +50,3 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
-Navigation (for navigating between composables)
-
-Dagger Hilt (for dependency injection)
-
-And some 3rd party libraries.
